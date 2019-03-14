@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="messageLabel">Hello DRC</string>
+    <string name="messageInputHint">Enter message</string>
+    <string name="messageActionText">SHOW MESSAGE</string>
+</resources>
